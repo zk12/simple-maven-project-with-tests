@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d8e11c-3dd9-47dc-8b08-8d772f61bc75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/simple-maven-project-with-tests-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/simple-maven-project-with-tests-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.OtherTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.OtherTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.SomeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.SomeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.OtherTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/test.OtherTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.SomeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/test.SomeTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +28,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="C:\Users\zhangkai\.m2\settings111.xml" />
+        <option name="userSettingsFile" value="C:\Users\zhangkai\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -45,7 +52,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="JUnit.OtherTest">
     <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -101,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662164663264</updated>
-      <workItem from="1662164665914" duration="1417000" />
+      <workItem from="1662164665914" duration="2991000" />
     </task>
     <servers />
   </component>
@@ -109,29 +116,29 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="528" y="110" key="FileChooserDialogImpl" timestamp="1662164709503">
+    <state x="528" y="110" key="FileChooserDialogImpl" timestamp="1662167540857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="528" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1662164709503" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1662166538543">
+    <state x="528" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1662167540857" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1662169023520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1662166538543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1662166538543">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1662169023520" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1662169023520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1662166538543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1662166538543">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1662169023520" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1662169023520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1662166538543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1662166538543">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1662169023520" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1662169023520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1662166538543" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1662166519157">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1662169023520" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1662169010276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1662166519157" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1662169010276" />
   </component>
 </project>
