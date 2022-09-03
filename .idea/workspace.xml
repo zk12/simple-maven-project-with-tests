@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf9eba4-2080-43ff-a70f-9022fb17d4a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662163207586</updated>
-      <workItem from="1662163210376" duration="629000" />
+      <workItem from="1662163210376" duration="820000" />
     </task>
     <servers />
   </component>
